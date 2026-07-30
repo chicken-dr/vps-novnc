@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://loving-garlic-generating-equity.trycloudflare.com/vnc.html
+URL       : https://tide-cruise-wallpaper-agency.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-30 02:08:45
+Created   : 2026-07-30 07:35:39
 =======================================================
