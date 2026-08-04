@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://server-volunteers-eden-page.trycloudflare.com/vnc.html
+URL       : https://dui-pixel-implement-revenue.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 02:14:28
+Created   : 2026-08-04 07:39:03
 =======================================================
