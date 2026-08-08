@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://announcements-interaction-kay-simple.trycloudflare.com/vnc.html
+URL       : https://constraints-mit-sound-electronics.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 01:22:37
+Created   : 2026-08-08 05:42:14
 =======================================================
