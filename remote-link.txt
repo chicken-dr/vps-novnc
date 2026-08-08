@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://eau-propecia-controller-applicable.trycloudflare.com/vnc.html
+URL       : https://fig-devices-authority-weapon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 10:31:28
+Created   : 2026-08-08 15:29:23
 =======================================================
