@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://workplace-sleep-emphasis-biblical.trycloudflare.com/vnc.html
+URL       : https://band-drain-almost-dover.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-21 05:31:05
+Created   : 2026-08-21 10:29:12
 =======================================================
