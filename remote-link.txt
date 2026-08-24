@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://four-aqua-train-gallery.trycloudflare.com/vnc.html
+URL       : https://drawn-exam-practices-mesh.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 01:08:38
+Created   : 2026-08-24 05:37:52
 =======================================================
