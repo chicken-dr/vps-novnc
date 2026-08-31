@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://remove-reduced-jade-distant.trycloudflare.com/vnc.html
+URL       : https://halo-identifying-boston-equally.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-30 22:24:57
+Created   : 2026-08-31 03:32:22
 =======================================================
