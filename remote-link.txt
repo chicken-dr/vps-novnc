@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://beautifully-thin-return-asbestos.trycloudflare.com/vnc.html
+URL       : https://prep-baths-discounted-socket.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-09 22:17:14
+Created   : 2026-09-10 03:01:55
 =======================================================
